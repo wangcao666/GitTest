@@ -10,5 +10,5 @@ public class Teacher {
     private String address1;
     private int age1;
     private double money;
-    private int sex;
+    private int sex123;
 }
