@@ -6,7 +6,7 @@ package com.matebook.project;
  * @description:
  */
 public class Student {
- private String name12;
+ private String name1;
  private int age1;
  private int sex1;
  private String address;
