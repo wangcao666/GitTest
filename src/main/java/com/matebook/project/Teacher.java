@@ -7,8 +7,8 @@ package com.matebook.project;
  */
 public class Teacher {
     private String name;
-    private String address1;
-    private int age1;
+    private String address;
+    private int age;
     private double money;
-    private int sex123;
+    private int sex;
 }
