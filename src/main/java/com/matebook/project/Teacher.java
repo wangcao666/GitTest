@@ -8,5 +8,5 @@ package com.matebook.project;
 public class Teacher {
     private String name;
     private String address1;
-    private int age;
+    private int age1;
 }
