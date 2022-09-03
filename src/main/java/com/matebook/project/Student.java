@@ -9,6 +9,6 @@ public class Student {
  private String name1;
  private int age1;
  private int sex1;
- private String address;
+ private String address1;
  private double money1;
 }
