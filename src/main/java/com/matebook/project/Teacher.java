@@ -9,4 +9,6 @@ public class Teacher {
     private String name;
     private String address1;
     private int age1;
+    private double money;
+    private int sex;
 }

@@ -10,4 +10,5 @@ public class Student {
  private int age;
  private int sex1;
  private String address;
+ private double money;
 }
