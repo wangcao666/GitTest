@@ -9,4 +9,5 @@ public class Classes {
     private String id;
     private String name;
     private String aa;
+    private String bb;
 }
