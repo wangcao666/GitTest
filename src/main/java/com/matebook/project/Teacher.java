@@ -11,5 +11,4 @@ public class Teacher {
     private int age;
     private double money;
     private int sex;
-    private String aa;
 }
