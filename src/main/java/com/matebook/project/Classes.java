@@ -7,4 +7,5 @@ package com.matebook.project;
  */
 public class Classes {
     private String id;
+    private String name;
 }
