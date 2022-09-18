@@ -10,4 +10,5 @@ public class Classes {
     private String name;
     private String aa;
     private String bb;
+    private String cc;
 }
